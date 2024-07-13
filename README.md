@@ -58,4 +58,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Acknowledgments
 
-Special thanks to the React community and contributors for their libraries and tutorials that helped in building this project.
+Thanks to Mainflow Service and Technology team for guidance and support during the development of this project.
